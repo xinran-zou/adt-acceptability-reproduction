@@ -1,0 +1,17 @@
+Discrepancy,Reported Result in the Paper,Reproduced Result
+H1 BM statistic for defense-node understanding,1.25,-1.18
+H1 TOST p-value for defense-node understanding,2.65e-19,1.48e-19
+H1 Cohen's d for defense-node understanding,0.27,0.25
+H2-1 corrected BM p-value for ADT2 OR attack refinements,0.969,0.940
+H2-2 BM statistic for ADT3 completeness,1.67,-1.57
+H3 Cohen's d for ADT1 multi-countermeasure errors,0.38,0.39
+H3 Cohen's d for ADT1 single-child attack errors,0.79,-0.80
+H3 corrected BM p-value for ADT3 single-child attack errors,0.641,0.622
+H5 Cohen's d for LS-ADT3-L3,0.08,-0.07
+H6 Cohen's d for LS-ADT1-L5,0.07,0.08
+H6 Cohen's d for LS-ADT2-L2,0.57,0.58
+H8 BM statistic for LS-ADT3-W5 Yes,-1.91,2.02
+H8 TOST p-value for LS-ADT3-W5 Yes,1.37e-17,3.00e-17
+H9 Cohen's d for ADT3 defense leaf nodes,0.10,0.11
+H9 Cohen's d for ADT3 attack nodes,0.24,0.25
+H9 Cohen's d for ADT3 OR attack refinements,0.23,0.24
